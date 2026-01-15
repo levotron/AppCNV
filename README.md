@@ -1,6 +1,4 @@
 # AppCNV
-![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg) 
-![Work on Linux System](https://img.shields.io/badge/Linux-OK-ligthgreen) ![Doesnt Work on Windows System](https://img.shields.io/badge/Windows-OK-ligthgreen) ![](https://img.shields.io/badge/MacOS-not_tested-lightgrey)
 
 ## Description du projet
 
